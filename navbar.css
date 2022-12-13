@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	height: 15vh;
+	width: 100%;
+	border: 1px solid black;
+	text-decoration: none;
+
+}
+.nav{
+	height: 10vh;
+	width: 80%;
+	border: 1px solid black;
+	display: inline-block;
+	float: right;
+	text-decoration: none;
+   }
+   .logo{
+   	display: inline-block;
+   	height: 10vh;
+   	width: 10%;
+   	border: 1px solid black;
+   }
+   ul li{
+   	list-style: inline;
+   	justify-content: space-between;
+   	text-decoration: none;
+   }
